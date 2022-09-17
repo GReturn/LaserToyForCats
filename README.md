@@ -1,2 +1,2 @@
 # LaserToyForCats
-Arduino x C# x Lasers  = Cats
+Arduino x C# x Lasers + Cats = Fun
